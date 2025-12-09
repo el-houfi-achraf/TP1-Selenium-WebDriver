@@ -204,13 +204,6 @@ Les captures d'écran ci-dessous ont été générées automatiquement lors de l
 ![Google Search Input](screenshots/02_google_search_input.png)
 *Saisie du terme "Selenium WebDriver" dans la barre de recherche.*
 
-#### 1.3 Résultats de recherche
-![Google Search Results](screenshots/03_google_search_results.png)
-*Affichage des résultats de recherche après soumission.*
-
-#### 1.4 Vérification des résultats
-![Google Results Verification](screenshots/04_google_results_verification.png)
-*Validation que les résultats contiennent bien des informations sur Selenium.*
 
 ---
 
