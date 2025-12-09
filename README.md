@@ -1,4 +1,4 @@
-# TP SELENIUM WEBDRIVER - FIREFOX
+# TP SELENIUM WEBDRIVER 
 
 ## 📋 Description du Projet
 
@@ -488,12 +488,7 @@ Utilisez toujours `@AfterEach` ou `finally` pour fermer le driver avec `driver.q
 - [x] Gestion des erreurs et exceptions
 - [x] Documentation complète (README)
 
----
 
-## 👨‍💻 Auteur
-
-**TP Selenium WebDriver - Firefox**  
-Projet réalisé dans le cadre d'un TP académique sur l'automatisation de tests logiciels.
 
 ---
 
@@ -508,5 +503,5 @@ WebDriverManager.firefoxdriver().setup();
 WebDriver driver = new FirefoxDriver();
 ```
 
-🎉 **Bon courage pour votre TP !**
+
 
